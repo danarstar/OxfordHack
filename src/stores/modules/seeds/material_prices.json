@@ -1,0 +1,9 @@
+[
+    {
+        "pk": 1,
+        "material_id": 1,
+        "supplier_id": 1,
+        "price": 10,
+        "update_date": "2019-07-14"
+    }
+]

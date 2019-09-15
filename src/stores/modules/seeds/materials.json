@@ -1,0 +1,9 @@
+[
+    {
+        "pk": 1,
+        "name": "testMaterial1",
+        "code": "testCode1",
+        "measurement_id": 1,
+        "material_category_id": 1
+    }
+]
